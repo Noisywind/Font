@@ -1,2 +1,2 @@
 # Font
-affichage du itinéraire
+affichage du itinéraire qui traverse des points
